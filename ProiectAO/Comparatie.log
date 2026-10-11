@@ -1,6 +1,6 @@
 LTspice 26.1.1 for Windows
-Circuit: C:\users\andrei\Documents\TSA_Proiect\Laborator1\RoutTest.net
-Start Time: Mon Oct  5 09:30:56 2026
+Circuit: C:\users\andrei\Documents\TSA_Proiect\ProiectAO\Comparatie.net
+Start Time: Fri Oct  9 12:07:33 2026
 solver = Normal
 Maximum thread count: 20
 tnom = 27
@@ -10,10 +10,10 @@ Direct Newton iteration failed to find operating point.
 Starting Gmin stepping
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 0.082 seconds.
-Total iterations: 366
+Total elapsed time: 0.054 seconds.
+Total iterations: 401
 
 Files loaded:
-C:\users\andrei\Documents\TSA_Proiect\Laborator1\RoutTest.net
+C:\users\andrei\Documents\TSA_Proiect\ProiectAO\Comparatie.net
 C:\users\andrei\AppData\Local\LTspice\lib\sub\ADI1.lib
 
