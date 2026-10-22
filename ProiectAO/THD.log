@@ -1,0 +1,55 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\users\andrei\Documents\TSA_Proiect\ProiectAO\THD.net
+Start Time: Thu Oct 22 18:06:57 2026
+solver = Normal
+Maximum thread count: 12
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 0.060 seconds.
+Total iterations: 3950
+
+Files loaded:
+C:\users\andrei\Documents\TSA_Proiect\ProiectAO\THD.net
+C:\users\andrei\AppData\Local\LTspice\lib\sub\ADI1.lib
+
+Fourier components of V(OutIdeal)
+N-Period=1
+DC component:-2.55944e-07
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+03	 4.242e+00	 1.000e+00	   90.01°	    0.00°
+    2   	 2.000e+03	 4.211e-07	 9.928e-08	  -10.44°	 -100.46°
+    3   	 3.000e+03	 1.621e-05	 3.822e-06	  104.17°	   14.15°
+    4   	 4.000e+03	 2.678e-07	 6.313e-08	  153.71°	   63.69°
+    5   	 5.000e+03	 1.051e-05	 2.478e-06	  -66.74°	 -156.75°
+    6   	 6.000e+03	 2.008e-07	 4.735e-08	  -87.31°	 -177.32°
+    7   	 7.000e+03	 4.782e-06	 1.127e-06	  122.46°	   32.44°
+    8   	 8.000e+03	 1.239e-07	 2.920e-08	   69.73°	  -20.28°
+    9   	 9.000e+03	 1.168e-06	 2.754e-07	  -51.38°	 -141.39°
+Partial Harmonic Distortion: 0.000470%
+Total Harmonic Distortion:   0.000000%
+
+Fourier components of V(OutAd711Spice)
+N-Period=1
+DC component:-2.58148e-07
+
+Harmonic	Frequency	 Fourier 	Normalized	 Phase  	Normalized
+ Number 	  [Hz]   	Component	 Component	[degree]	Phase [deg]
+    1   	 1.000e+03	 4.242e+00	 1.000e+00	   90.01°	    0.00°
+    2   	 2.000e+03	 4.086e-07	 9.633e-08	   -9.44°	  -99.45°
+    3   	 3.000e+03	 3.296e-05	 7.770e-06	  151.52°	   61.51°
+    4   	 4.000e+03	 2.575e-07	 6.071e-08	  152.07°	   62.06°
+    5   	 5.000e+03	 1.070e-05	 2.523e-06	 -115.55°	 -205.57°
+    6   	 6.000e+03	 2.062e-07	 4.861e-08	  -87.22°	 -177.23°
+    7   	 7.000e+03	 7.151e-06	 1.686e-06	  145.48°	   55.46°
+    8   	 8.000e+03	 1.220e-07	 2.877e-08	   66.81°	  -23.20°
+    9   	 9.000e+03	 1.076e-06	 2.537e-07	 -122.96°	 -212.98°
+Partial Harmonic Distortion: 0.000835%
+Total Harmonic Distortion:   0.000000%
+
