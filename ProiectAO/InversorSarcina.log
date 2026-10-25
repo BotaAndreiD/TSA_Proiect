@@ -1,0 +1,377 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\users\andrei\Documents\TSA_Proiect\ProiectAO\InversorSarcina.net
+Start Time: Sat Oct 24 14:14:29 2026
+
+.step rl=10
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=11.2201845430196
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=12.5892541179417
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=14.1253754462275
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=15.8489319246111
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=17.7827941003892
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=19.9526231496888
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=22.3872113856834
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=25.1188643150958
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=28.1838293126445
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=31.6227766016838
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=35.4813389233575
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=39.8107170553497
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=44.6683592150963
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=50.1187233627272
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=56.2341325190348
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=63.0957344480192
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=70.7945784384137
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=79.432823472428
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=89.1250938133744
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=99.9999999999998
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=112.201845430196
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=125.892541179416
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=141.253754462275
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=158.489319246111
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=177.827941003892
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=199.526231496888
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=223.872113856833
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=251.188643150957
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=281.838293126445
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=316.227766016837
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=354.813389233575
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=398.107170553496
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=446.683592150962
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=501.187233627271
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=562.341325190347
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=630.957344480191
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=707.945784384136
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=794.328234724279
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=891.250938133743
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=999.999999999997
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=1122.01845430196
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=1258.92541179416
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=1412.53754462275
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=1584.89319246111
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=1778.27941003892
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=1995.26231496887
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=2238.72113856833
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=2511.88643150957
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=2818.38293126444
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=3162.27766016837
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=3548.13389233574
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=3981.07170553496
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=4466.83592150961
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=5011.8723362727
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=5623.41325190347
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=6309.5734448019
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=7079.45784384135
+Direct Newton iteration succeeded in finding operating point.
+
+.step rl=7943.28234724278
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=8912.50938133741
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+
+.step rl=10000
+Direct Newton iteration failed to find operating point.
+Starting Gmin stepping
+Gmin stepping succeeded in finding the operating point.
+
+Total elapsed time: 3.651 seconds.
+Total iterations: 2967
+
+Files loaded:
+C:\users\andrei\Documents\TSA_Proiect\ProiectAO\InversorSarcina.net
+C:\users\andrei\AppData\Local\LTspice\lib\sub\ADI1.lib
+
+
+Measurement: ppm
+  step	PP(V(OutIdeal))	FROM	TO
+     1	0.499969899654	0.002	0.003
+     2	0.560968995094	0.002	0.003
+     3	0.62940967083	0.002	0.003
+     4	0.706197530031	0.002	0.003
+     5	0.79235342145	0.002	0.003
+     6	0.889016449451	0.002	0.003
+     7	0.997471392155	0.002	0.003
+     8	1.11915361881	0.002	0.003
+     9	1.25567698479	0.002	0.003
+    10	1.40885162354	0.002	0.003
+    11	1.58070087433	0.002	0.003
+    12	1.77350491285	0.002	0.003
+    13	1.98982185125	0.002	0.003
+    14	2.23250567913	0.002	0.003
+    15	2.504773736	0.002	0.003
+    16	2.81023144722	0.002	0.003
+    17	3.15291464329	0.002	0.003
+    18	3.5373506546	0.002	0.003
+    19	3.96863377094	0.002	0.003
+    20	4.45244717598	0.002	0.003
+    21	4.99518036842	0.002	0.003
+    22	5.60399270058	0.002	0.003
+    23	6.28692603111	0.002	0.003
+    24	7.0529665947	0.002	0.003
+    25	7.91219449043	0.002	0.003
+    26	8.87588691711	0.002	0.003
+    27	9.95674133301	0.002	0.003
+    28	11.1689281464	0.002	0.003
+    29	12.5282793045	0.002	0.003
+    30	14.0526614189	0.002	0.003
+    31	15.7619276047	0.002	0.003
+    32	17.6782894135	0.002	0.003
+    33	19.8267469406	0.002	0.003
+    34	22.2351303101	0.002	0.003
+    35	24.6891107559	0.002	0.003
+    36	25.2158975601	0.002	0.003
+    37	25.4165735245	0.002	0.003
+    38	25.5979566574	0.002	0.003
+    39	25.7616500854	0.002	0.003
+    40	25.9096403122	0.002	0.003
+    41	26.0426568985	0.002	0.003
+    42	26.1626825333	0.002	0.003
+    43	26.2705049515	0.002	0.003
+    44	26.3672904968	0.002	0.003
+    45	26.4541358948	0.002	0.003
+    46	26.5318431854	0.002	0.003
+    47	26.6020612717	0.002	0.003
+    48	26.6643533707	0.002	0.003
+    49	26.7205438614	0.002	0.003
+    50	26.7702817917	0.002	0.003
+    51	26.8154993057	0.002	0.003
+    52	26.8553285599	0.002	0.003
+    53	26.8911418915	0.002	0.003
+    54	26.923286438	0.002	0.003
+    55	26.9515237808	0.002	0.003
+    56	26.9772605896	0.002	0.003
+    57	26.999830246	0.002	0.003
+    58	27.0201683044	0.002	0.003
+    59	27.0383253098	0.002	0.003
+    60	27.054725647	0.002	0.003
+    61	27.0689849854	0.002	0.003
+
+Measurement: ppa
+  step	PP(V(OutAd711Spice))	FROM	TO
+     1	0.517262905836	0.002	0.003
+     2	0.580277204514	0.002	0.003
+     3	0.651042193174	0.002	0.003
+     4	0.730505913496	0.002	0.003
+     5	0.819606512785	0.002	0.003
+     6	0.919589340687	0.002	0.003
+     7	1.03174221516	0.002	0.003
+     8	1.15756553411	0.002	0.003
+     9	1.29874700308	0.002	0.003
+    10	1.45713764429	0.002	0.003
+    11	1.63487148285	0.002	0.003
+    12	1.83424448967	0.002	0.003
+    13	2.05790090561	0.002	0.003
+    14	2.30889582634	0.002	0.003
+    15	2.59032130241	0.002	0.003
+    16	2.90611112118	0.002	0.003
+    17	3.26035511494	0.002	0.003
+    18	3.65772175789	0.002	0.003
+    19	4.10343122482	0.002	0.003
+    20	4.60330629349	0.002	0.003
+    21	5.16400504112	0.002	0.003
+    22	5.79286551476	0.002	0.003
+    23	6.49801635742	0.002	0.003
+    24	7.28868198395	0.002	0.003
+    25	8.17515945435	0.002	0.003
+    26	9.16885852814	0.002	0.003
+    27	10.2824997902	0.002	0.003
+    28	11.5302276611	0.002	0.003
+    29	12.9276432991	0.002	0.003
+    30	14.4918985367	0.002	0.003
+    31	16.2416410446	0.002	0.003
+    32	18.196721077	0.002	0.003
+    33	20.3776531219	0.002	0.003
+    34	22.4563846588	0.002	0.003
+    35	23.4817762375	0.002	0.003
+    36	23.7716245651	0.002	0.003
+    37	24.0485086441	0.002	0.003
+    38	24.3125600815	0.002	0.003
+    39	24.564330101	0.002	0.003
+    40	24.8041000366	0.002	0.003
+    41	25.0322370529	0.002	0.003
+    42	25.2496080399	0.002	0.003
+    43	25.4560174942	0.002	0.003
+    44	25.6522464752	0.002	0.003
+    45	25.8386440277	0.002	0.003
+    46	26.0156526566	0.002	0.003
+    47	26.1835317612	0.002	0.003
+    48	26.3429012299	0.002	0.003
+    49	26.4938259125	0.002	0.003
+    50	26.6369638443	0.002	0.003
+    51	26.7725257874	0.002	0.003
+    52	26.9007472992	0.002	0.003
+    53	27.0223588943	0.002	0.003
+    54	27.1372365952	0.002	0.003
+    55	27.246055603	0.002	0.003
+    56	27.3489618301	0.002	0.003
+    57	27.4461927414	0.002	0.003
+    58	27.5378980637	0.002	0.003
+    59	27.624548912	0.002	0.003
+    60	27.7062892914	0.002	0.003
+    61	27.7833042145	0.002	0.003
